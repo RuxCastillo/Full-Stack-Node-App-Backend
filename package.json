@@ -1,0 +1,23 @@
+{
+	"name": "full-stack-node-app-backend",
+	"version": "1.0.0",
+	"description": "backend for my full stack notes app",
+	"homepage": "https://github.com/RuxCastillo/Full-Stack-Node-App-Backend#readme",
+	"bugs": {
+		"url": "https://github.com/RuxCastillo/Full-Stack-Node-App-Backend/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/RuxCastillo/Full-Stack-Node-App-Backend.git"
+	},
+	"license": "ISC",
+	"author": "",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"express": "^5.1.0"
+	}
+}
